@@ -12,5 +12,8 @@ Cette bibliothèque contient :
 - Un exemple de chargement de Webfont (velvetyne)
 
 -
+Sources : https://codepen.io, https://www.ionos.fr/digitalguide/sites-internet/web-design/comment-creer-une-galerie-photo-pour-votre-site-web/, https://css-tricks.com
+
+-
 
 Voilà, des bisous :)
