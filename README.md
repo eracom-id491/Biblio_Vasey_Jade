@@ -1,1 +1,16 @@
 # biblio_jade
+
+J'ai créer une bibliothèque d'exemple de codes. Afin d'avoir quelques exemples de bases pour la suite.
+
+-
+
+Cette bibliothèque contient : 
+- Un exemple de menu 
+- Un exemple de mediaquery
+- Un exemple de mise en page 
+- Un exemple de chargement de Webfont (google)
+- Un exemple de chargement de Webfont (velvetyne)
+
+-
+
+Voilà, des bisous :)
