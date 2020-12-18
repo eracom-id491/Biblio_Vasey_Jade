@@ -1,0 +1,10 @@
+@media (min-width: 600px) {
+body{background: pink}
+
+p{column-count: 2}
+}
+
+@media (min-width: 1200px) {
+
+p{column-count: 3}
+}

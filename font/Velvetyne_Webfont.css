@@ -1,0 +1,13 @@
+@font-face {
+  font-family:"TF";
+  src:url("fonts/TCO.woff");
+}
+h1{
+  font-family:"TF";
+}
+h2{
+  font-family:"TF"
+}
+p{
+  font-family:"TF"
+}
